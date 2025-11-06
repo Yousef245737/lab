@@ -9349,7 +9349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 7
-  jumpHeight: 15
+  jumpHeight: 20
   Spacebar: 32
   L: 276
   R: 275
@@ -9829,7 +9829,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.013491869}
+  m_Offset: {x: 0.003370434, y: -0.0006842762}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -9840,8 +9840,8 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.48, y: 0.36301625}
-  m_EdgeRadius: 0
+  m_Size: {x: 0.29799724, y: 0.14326471}
+  m_EdgeRadius: 0.5
 --- !u!212 &2068876745
 SpriteRenderer:
   m_ObjectHideFlags: 0
